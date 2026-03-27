@@ -21,3 +21,8 @@
 # [中国电信]
 127.0.0.1 id6.me
 127.0.0.1 open.e.189.cn
+
+
+# [聚合类]
+0.0.0.0 dypnsapi.aliyuncs.com
+0.0.0.0 api.verification.jpush.cn
